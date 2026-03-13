@@ -1,7 +1,7 @@
 [flarum]
-url = "siteurl"
-username = "your_username_here"
-password = "your_password_here"
+url = "siteurl" # 你的 Flarum 站点地址。
+username = "your_username_here" # 你的 Flarum 用户名
+password = "your_password_here" # 你的 Flarum 账号密码
 
 [bot]
 ai_provider = "siliconflow" # 此处填写 siliconflow 或 openai 或 deepseek 或 gemini，这是 LLM。
